@@ -44,7 +44,7 @@ elements.
 
 ## 📦 Installation & Setup
 
-\`\`\`bash \# Clone the repository git clone
+bash \# Clone the repository git clone
 https://github.com/SarAA2003/QuickAi.git
 
 # Navigate to project directory
@@ -53,11 +53,11 @@ cd QuickAi
 
 # Install dependencies
 
-npm install \# or pip install -r requirements.txt
+npm install -r requirements.txt
 
 # Run the project
 
-npm start \# or python app.py \`\`\`
+npm run dev
 
 > 💡 *Make sure to configure your API key in the \`.env\` file before
 > running the project.*

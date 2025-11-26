@@ -32,8 +32,6 @@ elements.
 
 ## 🛠️ Tech Stack
 
-  Layer                      Technologies Used
-  -------------------------- --------------------------------
   **Frontend**               HTML, CSS, JavaScript
   **Backend**                Python / Node.js
   **AI Integration**         OpenAI API

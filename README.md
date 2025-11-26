@@ -30,30 +30,20 @@ elements.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
-
-  **Frontend**               HTML, CSS, JavaScript
-  **Backend**                Python / Node.js
-  **AI Integration**         OpenAI API
-  **Database**               SQL / Firebase
-  **Hosting / Deployment**   GitHub Pages / Vercel / Render
-
-------------------------------------------------------------------------
-
 ## 📦 Installation & Setup
 
 bash \# Clone the repository git clone
 https://github.com/SarAA2003/QuickAi.git
 
-# Navigate to project directory
+### Navigate to project directory
 
 cd QuickAi
 
-# Install dependencies
+### Install dependencies
 
 npm install -r requirements.txt
 
-# Run the project
+### Run the project
 
 npm run dev
 
